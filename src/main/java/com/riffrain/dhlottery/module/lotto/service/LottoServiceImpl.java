@@ -35,7 +35,7 @@ public class LottoServiceImpl implements LottoService {
         MultiValueMap<String, String> params = new LinkedMultiValueMap<>();
         params.add("round", String.valueOf(parseData.get("curRound")));
         params.add("direct", "172.17.20.51");
-        params.add("nBuyAmount", data.size() + "000");
+        params.add("nBuyAmount", String.valueOf(data.size() * 1000));
         params.add("param", data.toString() );
         params.add("ROUND_DRAW_DATE", today.format(formatter));
         params.add("WAMT_PAY_TLMT_END_DT", today.plusDays(366).format(formatter));
