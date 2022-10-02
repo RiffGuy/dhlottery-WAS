@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.riffrain</groupId>
-	<artifactId>dh-lottery</artifactId>
+	<artifactId>dhl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dh-lottery</name>
+	<name>dhl</name>
 	<description>automatic lotto buy</description>
 	<properties>
 		<java.version>11</java.version>

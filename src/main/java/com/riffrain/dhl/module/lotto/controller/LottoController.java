@@ -1,8 +1,8 @@
-package com.riffrain.dhlottery.module.lotto.controller;
+package com.riffrain.dhl.module.lotto.controller;
 
-import com.riffrain.dhlottery.common.utils.UserUtils;
-import com.riffrain.dhlottery.module.lotto.dto.OrderLottoReqDTO;
-import com.riffrain.dhlottery.module.lotto.service.LottoService;
+import com.riffrain.dhl.common.utils.UserUtils;
+import com.riffrain.dhl.module.lotto.dto.OrderLottoReqDTO;
+import com.riffrain.dhl.module.lotto.service.LottoService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

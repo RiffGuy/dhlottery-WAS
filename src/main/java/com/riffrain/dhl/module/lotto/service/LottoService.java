@@ -1,6 +1,6 @@
-package com.riffrain.dhlottery.module.lotto.service;
+package com.riffrain.dhl.module.lotto.service;
 
-import com.riffrain.dhlottery.module.lotto.dto.LottoDataDTO;
+import com.riffrain.dhl.module.lotto.dto.LottoDataDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 

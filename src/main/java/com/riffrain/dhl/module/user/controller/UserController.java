@@ -1,8 +1,8 @@
-package com.riffrain.dhlottery.module.user.controller;
+package com.riffrain.dhl.module.user.controller;
 
-import com.riffrain.dhlottery.module.user.dto.CheckAccountReqDTO;
-import com.riffrain.dhlottery.module.user.dto.SignInDTO;
-import com.riffrain.dhlottery.module.user.service.UserService;
+import com.riffrain.dhl.module.user.dto.CheckAccountReqDTO;
+import com.riffrain.dhl.module.user.dto.SignInDTO;
+import com.riffrain.dhl.module.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;

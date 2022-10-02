@@ -1,6 +1,6 @@
-package com.riffrain.dhlottery.common.exception;
+package com.riffrain.dhl.common.exception;
 
-import com.riffrain.dhlottery.common.type.CommonErrorType;
+import com.riffrain.dhl.common.type.CommonErrorType;
 import lombok.Getter;
 
 @Getter

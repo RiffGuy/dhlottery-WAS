@@ -1,7 +1,7 @@
-package com.riffrain.dhlottery.common.utils;
+package com.riffrain.dhl.common.utils;
 
-import com.riffrain.dhlottery.common.exception.CommonException;
-import com.riffrain.dhlottery.common.type.CommonErrorType;
+import com.riffrain.dhl.common.exception.CommonException;
+import com.riffrain.dhl.common.type.CommonErrorType;
 import org.springframework.stereotype.Component;
 
 import javax.servlet.http.HttpSession;

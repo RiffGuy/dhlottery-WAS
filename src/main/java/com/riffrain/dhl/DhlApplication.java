@@ -1,13 +1,13 @@
-package com.riffrain.dhlottery;
+package com.riffrain.dhl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DhLotteryApplication {
+public class DhlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DhLotteryApplication.class, args);
+		SpringApplication.run(DhlApplication.class, args);
 	}
 
 }

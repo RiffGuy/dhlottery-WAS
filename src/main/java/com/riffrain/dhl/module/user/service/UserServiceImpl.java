@@ -1,8 +1,8 @@
-package com.riffrain.dhlottery.module.user.service;
+package com.riffrain.dhl.module.user.service;
 
-import com.riffrain.dhlottery.common.exception.CommonException;
-import com.riffrain.dhlottery.common.type.CommonErrorType;
-import com.riffrain.dhlottery.module.user.dto.SignInDTO;
+import com.riffrain.dhl.common.exception.CommonException;
+import com.riffrain.dhl.common.type.CommonErrorType;
+import com.riffrain.dhl.module.user.dto.SignInDTO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.*;

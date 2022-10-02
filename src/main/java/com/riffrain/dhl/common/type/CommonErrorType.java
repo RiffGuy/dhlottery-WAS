@@ -1,4 +1,4 @@
-package com.riffrain.dhlottery.common.type;
+package com.riffrain.dhl.common.type;
 
 import lombok.Getter;
 

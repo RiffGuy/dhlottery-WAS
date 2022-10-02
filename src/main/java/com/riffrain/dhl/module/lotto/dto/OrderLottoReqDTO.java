@@ -1,4 +1,4 @@
-package com.riffrain.dhlottery.module.lotto.dto;
+package com.riffrain.dhl.module.lotto.dto;
 
 import lombok.Getter;
 import lombok.Setter;
